@@ -1,2 +1,9 @@
-remove all
 dodano kolor czerwony.
+111
+222
+333
+444 
+555
+777
+888 fix_1
+
