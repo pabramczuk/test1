@@ -4,6 +4,7 @@ dodano kolor czerwony.
 333
 444 
 555
+777 main
 fix 3
 888 fix_1
 
